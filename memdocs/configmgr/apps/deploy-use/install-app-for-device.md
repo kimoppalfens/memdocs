@@ -27,7 +27,7 @@ From the Configuration Manager console you can install applications to a device 
 
 - Enable the [optional feature](../../core/servers/manage/optional-features.md) **Approve application requests for users per device**.
 
-- [Deploy the application](deploy-applications.md) as *Available* to a device collection.
+- [Deploy the application](deploy-applications.md) as *Available* to a user collection.
 
   - On the **Deployment Settings** page of the deployment wizard, select the following option: **An administrator must approve a request for this application on the device**.
 
